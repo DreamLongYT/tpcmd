@@ -9,3 +9,6 @@ commands:
   tpdel:
     description: Delete a teleport command
     usage: /tpdel <name>
+  tpcmd:
+    description: Teleport to a saved location
+    usage: /tpcmd <name>
